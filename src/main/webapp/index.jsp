@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Well come to  IRCTC!" %></h2>
+<h2><%= "Well come to  IRCTC!!!" %></h2>
 </body>
 </html>
